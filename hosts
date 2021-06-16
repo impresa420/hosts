@@ -91792,6 +91792,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lobi.co
 0.0.0.0 twitter.com
 0.0.0.0 www.twitter.com
+0.0.0.0 https://twitter.com/
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
